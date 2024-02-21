@@ -1,0 +1,28 @@
+.repo-bg-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.repo-contianer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main-heading {
+  font-weight: bold;
+  font-family: 'Lobster';
+  font-size: 36px;
+}
+
+.cards-container {
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+}
+
+.failed-image {
+  width: 100%;
+}

@@ -1,0 +1,39 @@
+* {
+  font-family: 'roboto';
+}
+.stars-container {
+  display: flex;
+  align-items: center;
+  margin: 0px;
+}
+
+.card {
+  background-color: #f8f8ff;
+  padding: 10px;
+  margin: 10px;
+  width: 220px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.avatar {
+  height: 80px;
+}
+
+.card-heading {
+  color: #e73959;
+  font-size: 20px;
+}
+
+.rating-img {
+  height: 20px;
+  margin-right: 8px;
+}
+
+.card-para {
+  margin: 8px;
+  color: #0f172a;
+  font-weight: 500;
+}
